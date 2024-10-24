@@ -17,8 +17,6 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-#**I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!**
-
 
 - Power Electronics and Electric Drive
 - Design and application of semiconductor switch converter
