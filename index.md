@@ -9,7 +9,7 @@ layout: page
 Here is **Yi Luo (罗意)**.<br>
 
 I am a PhD student in the Department of Electrical and Computer Engineering at the University of Connecticut, advised by <a href="https://pearl.engr.uconn.edu/about-ali-bazzi/">Prof. Ali Bazzi</a>
-. Prior to the University of Connecticut,  I Studied at Southwest Jiaotong University, Power Electronics and Electric Drive with [Prof. Wensheng Song](https://faculty.swjtu.edu.cn/songwensheng/zh_CN/index.htm). I also spent one year in a research program in Singapore at [Temasek Polytechnic · Clean Energy Research Centre].
+. Prior to the University of Connecticut,  I Studied at Southwest Jiaotong University, Power Electronics and Electric Drive with [Prof. Wensheng Song](https://faculty.swjtu.edu.cn/songwensheng/zh_CN/index.htm). I also spent one year in a research program in Singapore at Temasek Polytechnic · Clean Energy Research Centre.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - yi.luo[at] uconn.edu
 
