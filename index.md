@@ -22,7 +22,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - Design and application of semiconductor switch converter
 - Fault Diagnosis
 
-My current research focuses on Power Electronics and Design and application of hybrid switch converter. My interests are on the **Applications of Semiconductors** and its applications in **High Power Converters**. In a word, advanced technologies like Semiconductors and Converters positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on Power Electronics and Design and application of hybrid switch converter. My interests are on the **Applications of Semiconductors in High Power Converters**. In a word, advanced technologies like Semiconductors and Converters positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
 
