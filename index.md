@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://raw.githubusercontent.com/yisamu/yisamu.github.io/main/images/Yi_Luo_1.jpg" class="floatpic" width="360" height="480">
+<img src="https://raw.githubusercontent.com/yisamu/yisamu.github.io/main/images/Yi_Luo_1.jpg" class="floatpic" width="240" height="360">
 
 
 Here is **Yi Luo (罗意)**.<br>
