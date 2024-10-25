@@ -7,7 +7,7 @@ title: Publications
 > (†: equal contribution, ~: corresponding author)
 
 ## Journal Paper
-- [Deep Learning-Based Failure Prognostic Model for PV Inverter Using Field Measurements]([https://ieeexplore.ieee.org/abstract/document/10636809])<br>Liming Liu, **Yi Luo**, Zhaoyu Wang, Feng Qiu, Shijia Zha, Murat Yildirim~<br> IEEE Transactions on Sustainable Energy.<br>
+- [Deep Learning-Based Failure Prognostic Model for PV Inverter Using Field Measurements](https://ieeexplore.ieee.org/abstract/document/10636809)<br>Liming Liu, **Yi Luo**, Zhaoyu Wang, Feng Qiu, Shijia Zha, Murat Yildirim~<br> IEEE Transactions on Sustainable Energy.<br>
 
 
 ## Conference Paper
