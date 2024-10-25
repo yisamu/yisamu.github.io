@@ -10,7 +10,7 @@ title: Publications
 
 - [Deep Learning-Based Failure Prognostic Model for PV Inverter Using Field Measurements]([https://ieeexplore.ieee.org/abstract/document/10636809])<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
 
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
+- [Early prediction of lithium battery knee point before capacity degradation](https://ieeexplore.ieee.org/abstract/document/10567378)<br> Yongjiang Yu, Shunfeng Yang, **Yi Luo**, Xin Qi, Yujia Miao <br> 2024 IEEE 10th International Power Electronics and Motion Control Conference, Poster Session.<br>Chengdu, China. May, 2024.
 
   <br>
 
