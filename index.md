@@ -20,7 +20,6 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - Power Electronics and Electric Drive
 - Design and application of semiconductor switch converter
 - LLM, Agent and Fault Diagnosis
-- LLM, Agent
 
 My current research focuses on **Power Electronics and Application of Hybrid Switch Converters**. My interests are on the **Applications of Semiconductors in High Power Converters**. In a word, advanced technologies like Semiconductors and Converters positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
