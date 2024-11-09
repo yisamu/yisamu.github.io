@@ -23,6 +23,11 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 My current research focuses on **Power Electronics and Application of Hybrid Switch Converters**. My interests are on the **Applications of Semiconductors in High Power Converters**. In a word, advanced technologies like Semiconductors and Converters positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
+## News and Updates
+
+- **Oct 2024**：Very excited to submit [Infant Agent: A Tool-Integrated, Logic-Driven Agent with Cost-Effective API Usage].
+- **May 2024：**Very excited to accept [Deep Learning-Based Failure Prognostic Model for PV Inverter Using Field Measurements] IEEE Transactions on Sustainable Energy.
+- **June 2024：**Our work *Inverter analysis * has been accepted to [Data-Driven Assessment of Operational and Harsh Environmental Stress Factors for Solar Inverters using Field Measurements] as a Power & Energy Society General Meeting. See you in Seattle, US!
 ---
 
 
