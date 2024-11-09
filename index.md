@@ -27,7 +27,7 @@ My current research focuses on **Power Electronics and Application of Hybrid Swi
 
 - **Oct 2024**：Very excited to submit Infant Agent: A Tool-Integrated, Logic-Driven Agent with Cost-Effective API Usage.
 - **June 2024：** Very excited to accept Data-Driven Assessment of Operational and Harsh Environmental Stress Factors for Solar Inverters using Field Measurements as a Power & Energy Society General Meeting. See you in Seattle, US!
-- **May 2024** Very excited to accept Deep Learning-Based Failure Prognostic Model for PV Inverter Using Field Measurements. IEEE Transactions on Sustainable Energy.
+- **May 2024:** Very excited to accept Deep Learning-Based Failure Prognostic Model for PV Inverter Using Field Measurements. IEEE Transactions on Sustainable Energy.
 
 ---
 <br>
