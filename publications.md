@@ -14,7 +14,7 @@ title: Publications
 
 
 ## Conference Paper
-- Research on Ultrasonic-Based Measurement of State of Charge in Lithium-ion Batteries <br> Zegeye belete Sewunet, **Yi Luo**, Shunfeng Yang, Yongjiang Yu <br> 2024 IEEE Institute of Electrical and Electronics Engineers .<br>Nanjing, Chian. Dec, 2024.
+- Research on Ultrasonic-Based Measurement of State of Charge in Lithium-ion Batteries <br> Zegeye belete Sewunet, **Yi Luo**, Shunfeng Yang, Yongjiang Yu <br> 2024 IEEE Institute of Electrical and Electronics Engineers .<br>Nanjing, China. Dec, 2024.
 
 - [Infant Agent: A Tool-Integrated, Logic-Driven Agent with Cost-Effective API Usage](https://arxiv.org/abs/2411.01114)<br> Bin Lei, Yuchen Li, Yiming Zeng, Tao Ren,**Yi Luo**, Tianyu Shi, Zitian Gao, Zeyu Hu, Weitai Kang, Qiuwu Chen<br> 	arXiv.<be>
 
